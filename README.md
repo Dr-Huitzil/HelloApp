@@ -8,7 +8,7 @@ The change your own text button takes the input the user has inputted in the "ch
 
 ### App Walk-though
 
-<img src="http://imgur.com/a/qgGmgd2" width=200><br>
+<img src="https://i.imgur.com/DiM1HuK.gif" width=200><br>
 
 
 ### Required User Stories
